@@ -98,13 +98,29 @@ while prediction:
 
 ## 参考资料
 ### 神经网络的结构和参数可视化 
-https://github.com/julrog/nn_vis 
+- 仓库地址： https://github.com/julrog/nn_vis 
+- 运行环境：Python、Tensorflow2
+- 使用效果：可视化展示网络结构
+![](misc/comparisson_processing.jpeg)
+
 ### 基于Unity的神经网络训练过程可视化
-https://github.com/stefsietz/nn-visualizer
+- 仓库地址： https://github.com/stefsietz/nn-visualizer
+- 运行环境：Python、Tensorflow1、Unity、C#
+- 使用效果：构建3D版神经网络，使用鼠标和神经网络动态交互，动态查看训练过程
+![](misc/u3d_img.png)
+
 ### CNN原理可视化
-https://github.com/poloclub/cnn-explainer
+- 仓库地址： https://github.com/poloclub/cnn-explainer
+- 运行环境：Python、Tensorflow2、TensorflowJS、NodeJS
+- 使用效果：演示神经网络的原理，查看每一层、每个神经元的特征数值
+![](misc/cnn_explainer.png)
+
 ### MNIST数据集分类模型可视化交互
-https://github.com/aharley/nn_vis
+- 仓库地址： https://github.com/aharley/nn_vis
+- 运行环境：JavaScript
+- 使用效果：输入手写字符，可交互体验每一层特征概况
+![](misc/2d-cmu.png)
+
 
 ## 工具
 - [Unity3D](https://unity3d.com/get-unity/download): Unity3D工具
